@@ -45,7 +45,7 @@ const Group1 = () => {
       {/* profile banner */}
       <div className="border border-[#FFDBB8] rounded-xl h-[170px] w-[300px] bg-[#FFFDF4] relative top-[220px] lg:top-[500px] left-[40px] p-[10px] xl:hidden">
             <div className="w-[277px] h-[67px] flex flex-wrap">
-                    <img className="ml-[10px]" src="../../images/Rectangle 14.png"></img>
+                    <img className="ml-[10px]" src={"../../images/Rectangle 14.png"}></img>
                     <div className="ml-[20px]">
                         <p className="font-bold mt-[5px]">David Mitchell</p>
                         <div className="flex flex-wrap">

@@ -38,7 +38,7 @@ const Group1 = () => {
 
         {/* pic banner */}
       <div className="absolute xl:static">
-        <img className="w-[380px] lg:w-[836px] lg:ml-[90px] lg:rounded-[50px] xl:w-[500px] xl:h-[410px] xl:mr-[80px]" src="../../images/Hero Img.png"/>
+        <img className="w-[380px] lg:w-[836px] lg:ml-[90px] lg:rounded-[50px] xl:w-[500px] xl:h-[410px] xl:mr-[80px]" src={"../../images/Hero Img.png"}/>
       </div>
 
       
